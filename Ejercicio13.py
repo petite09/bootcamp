@@ -1,1 +1,2 @@
-#Escribe un programa que calcule el factorial de un número
+#Escribe un programa que calcule el factorial de un número.
+
