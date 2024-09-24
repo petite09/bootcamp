@@ -1,0 +1,1 @@
+# Escribe un programa que convierta una cantidad de horas dada por el usuario a segundos.

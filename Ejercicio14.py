@@ -1,0 +1,1 @@
+# Escribe un programa que imprima todos los números pares de una lista dada.
