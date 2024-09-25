@@ -2,5 +2,5 @@
 
 horas = int(input("Introduce la cantidad de horas "))
 segundos = round(horas * 3600)
-3
+
 print(f"Las {horas} horas equivalen a {segundos} segundos")
